@@ -1,16 +1,13 @@
 # devquiz_app_mobile
 
-A new Flutter project.
+Flutter demo
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+##SAMPLE UI
+![image](https://github.com/user-attachments/assets/fc8e74af-4e2b-438b-b1f3-05fbefec8a85)
 
-A few resources to get you started if this is your first Flutter project:
+##MY UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/d1e3ae09-24ca-4e8a-b920-78dc325ebe59)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
